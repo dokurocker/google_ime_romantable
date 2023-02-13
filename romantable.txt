@@ -18,8 +18,8 @@ p	ー
 P	＿
 y	・
 Y	？
-'	ん
-"	〜
+k	ん
+K	〜
 va	ゔぁ
 vi	ゔぃ
 vu	ゔ
@@ -53,7 +53,6 @@ vhy	ゔゅい
 qq	っ	q
 vv	っ	v
 ll	っ	l
-kk	っ	k
 cc	っ	c
 gg	っ	g
 ss	っ	s
@@ -68,21 +67,6 @@ rr	っ	r
 ww	っ	w
 xx	っ	x
 www	w	ww
-kha	きゃ
-khi	きぃ
-khu	きゅ
-khe	きぇ
-kho	きょ
-kh;	きゃん
-khx	きぃん
-khk	きゅん
-khj	きぇん
-khq	きょん
-kh'	きゃい
-kh.	きぇい
-kh,	きょう
-khp	きゅう
-khy	きゅい
 cna	きゃ
 cni	きぃ
 cnu	きゅ
@@ -404,20 +388,6 @@ x.	ぇい
 x,	ぉう
 xp	ぅう
 xy	ぅい
-ka	か
-ki	き
-ku	く
-ke	け
-ko	こ
-k;	かん
-kx	きん
-kj	けん
-kq	こん
-k'	かい
-k.	けい
-k,	こう
-kp	くう
-ky	くい
 ca	か
 ci	き
 cu	く
@@ -507,21 +477,6 @@ qhy	くゅい
 qwa	くゎ
 qw;	くゎん
 qw'	くゎい
-kwa	くぁ
-kwi	くぃ
-kwu	くぅ
-kwe	くぇ
-kwo	くぉ
-kw;	くぁん
-kwx	くぃん
-kwk	くぅん
-kwj	くぇん
-kwq	くぉん
-kw'	くぁい
-kw.	くぇい
-kw,	くぉう
-kwp	くぅう
-kwy	くぅい
 cwa	くぁ
 cwi	くぃ
 cwu	くぅ
